@@ -2,9 +2,9 @@
 
 Haiii guysss, let me tell you about me !!
 
-- 🔭 I’m currently studying at Dian Nuswantoro University
-- 🌱 I’m currently learning about machine learning
-- 💬 Feel free to ask me about data processing or machine learning training
+- 🔭 I’m currently Fresh Graduate at Dian Nuswantoro University
+- 🌱 I’m currently learning about machine learning, Deep Learning, Data Science
+- 💬 Feel free to ask me about data science or machine learning 
 
 ### Github Statistic
 <p align="left">
